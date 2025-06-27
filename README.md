@@ -11,7 +11,6 @@
 - 🧬 **Embedding Generation**: Convert documents into 384-dimensional semantic embeddings.
 - 🌲 **Pinecone Integration**: Seamlessly store embeddings in your Pinecone vector database for scalable, real-time search.
 - 🔗 **Plug-and-Play for Chatbots**: Use this knowledge feed with conversational AI systems to boost their domain expertise.
-- ⚡ **Lightweight & Fast**: Minimal dependencies and quick setup for immediate use.
 
 ## 🚀 Getting Started
 
